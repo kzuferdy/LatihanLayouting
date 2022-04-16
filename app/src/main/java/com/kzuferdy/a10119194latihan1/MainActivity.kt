@@ -1,0 +1,11 @@
+package com.kzuferdy.a10119194latihan1
+
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+
+class MainActivity : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_10119194lat1)
+    }
+}

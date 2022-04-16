@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">10119194Latihan1</string>
+    <string name="digi_team">DigiTeam</string>
+    <string name="digi_teamdesc">Digital Together Everyone Achieve More\nJabar Digital Service</string>
+    <string name="jam_kerja">Jam Kerja Bulan Ini</string>
+    <string name="jam_kerja_desc">Jam kerja kamu bulan ini: 130.53 Jam</string>
+    <string name="waktu_kerja">130.53 JAM</string>
+    <string name="checkin">Checkin</string>
+    <string name="laporan_kamu">Laporan Kamu</string>
+    <string name="buat_laporan">Buat Laporan</string>
+    <string name="ferdy_mohamad_firdaus_10119194">Ferdy Mohamad Firdaus 10119194</string>
+
+</resources>
